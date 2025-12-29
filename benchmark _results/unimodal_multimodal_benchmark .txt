@@ -1,0 +1,241 @@
+max_it = 100, pop_size:=20
+Function name Beale, type: False
+model name: GEGO
+mean_Y=0.0005162368956943794, std_Y=0.0013752630233905192 
+model name: GEO
+mean_Y=6.421359325440032e-06, std_Y=2.135552273952953e-05 
+model name: PSO
+mean_Y=0.07754264654563009, std_Y=0.23270460923985808 
+model name: GA
+mean_Y=0.9513727989166807, std_Y=0.7459235615390463 
+model name: GWO
+mean_Y=2.19379478728689e-06, std_Y=3.946693840900369e-06 
+model name: JSO
+mean_Y=1.7501589765784245e-15, std_Y=7.517654633566595e-15 
+model name: SCA
+mean_Y=0.0023095823001036287, std_Y=0.002057887263299925 
+Function name Matya, type: True
+model name: GEGO
+mean_Y=0.0, std_Y=0.0 
+model name: GEO
+mean_Y=0.0, std_Y=0.0 
+model name: PSO
+mean_Y=4.693938701298795e-10, std_Y=2.172953600679169e-09 
+model name: GA
+mean_Y=0.23121744515271547, std_Y=0.20739697543495092 
+model name: GWO
+mean_Y=3.148673938625651e-47, std_Y=1.3425656811562605e-46 
+model name: JSO
+mean_Y=5.334348807059587e-20, std_Y=2.8477028177751903e-19 
+model name: SCA
+mean_Y=3.4567173116144093e-11, std_Y=1.7985822677300083e-10 
+Function name CamelThreeHump, type: False
+model name: GEGO
+mean_Y=0.0, std_Y=0.0 
+model name: GEO
+mean_Y=0.0, std_Y=0.0 
+model name: PSO
+mean_Y=5.689999567387812e-11, std_Y=1.3285792876633676e-10 
+model name: GA
+mean_Y=0.2872468128768676, std_Y=0.25338701150755655 
+model name: GWO
+mean_Y=6.038668214686855e-75, std_Y=3.2441376176161238e-74 
+model name: JSO
+mean_Y=4.16888790788368e-23, std_Y=1.9908465495579495e-22 
+model name: SCA
+mean_Y=1.2037090423848874e-15, std_Y=3.3532457157273757e-15 
+Function name Exponential, type: False
+model name: GEGO
+mean_Y=-1.0, std_Y=0.0 
+model name: GEO
+mean_Y=-1.0, std_Y=0.0 
+model name: PSO
+mean_Y=-0.9999999999994896, std_Y=6.966343924111933e-13 
+model name: GA
+mean_Y=-0.9947479480629398, std_Y=0.006075275352013879 
+model name: GWO
+mean_Y=-1.0, std_Y=0.0 
+model name: JSO
+mean_Y=-1.0, std_Y=0.0 
+model name: SCA
+mean_Y=-1.0, std_Y=4.965068306494546e-17 
+Function name DropWave, type: False
+model name: GEGO
+mean_Y=-1.0, std_Y=0.0 
+model name: GEO
+mean_Y=-1.0, std_Y=0.0 
+model name: PSO
+mean_Y=-0.9900533348070809, std_Y=0.02199968614171988 
+model name: GA
+mean_Y=-0.6806131574077295, std_Y=0.16717305707655516 
+model name: GWO
+mean_Y=-0.9978748440931688, std_Y=0.01144431479914111 
+model name: JSO
+mean_Y=-0.973737876212866, std_Y=0.03073686230542704 
+model name: SCA
+mean_Y=-0.9965704273492949, std_Y=0.0124486193585725 
+Function name EggHolder, type: False
+model name: GEGO
+mean_Y=-936.2289348728674, std_Y=31.62629001766987 
+model name: GEO
+mean_Y=-927.8998102519553, std_Y=62.46440245855331 
+model name: PSO
+mean_Y=-888.1960900055404, std_Y=81.13025447324904 
+model name: GA
+mean_Y=-687.8753264654538, std_Y=121.62423341854455 
+model name: GWO
+mean_Y=-945.1780211361162, std_Y=36.86353907031222 
+model name: JSO
+mean_Y=-937.0248246408156, std_Y=45.34922406765422 
+model name: SCA
+mean_Y=-957.5117538827172, std_Y=4.717597126361474 
+Function name Himmelblau, type: False
+model name: GEGO
+mean_Y=2.9746712472920308e-08, std_Y=1.303590330601738e-07 
+model name: GEO
+mean_Y=7.396360171377957e-05, std_Y=0.0003830497869074181 
+model name: PSO
+mean_Y=2.2796893663457012e-09, std_Y=4.281006622365786e-09 
+model name: GA
+mean_Y=1.0039360506531352, std_Y=1.101985100644327 
+model name: GWO
+mean_Y=7.011876057419456e-05, std_Y=8.430709659254869e-05 
+model name: JSO
+mean_Y=5.995929426657776e-18, std_Y=3.14931632349339e-17 
+model name: SCA
+mean_Y=0.15447091430094992, std_Y=0.147718247214551 
+Function name Levy13, type: False
+model name: GEGO
+mean_Y=6.245220426292621e-07, std_Y=3.172641873352643e-06 
+model name: GEO
+mean_Y=3.375440579098455e-07, std_Y=7.610937015969498e-07 
+model name: PSO
+mean_Y=3.789714525472812e-09, std_Y=9.10358439443523e-09 
+model name: GA
+mean_Y=1.034632184598368, std_Y=1.5209004217133872 
+model name: GWO
+mean_Y=4.264929249845607e-06, std_Y=5.664527299575063e-06 
+model name: JSO
+mean_Y=3.169046319062713e-19, std_Y=1.3949129223153662e-18 
+model name: SCA
+mean_Y=0.013020813712909309, std_Y=0.01279347422232698 
+Function name Ackley01, type: False
+model name: GEGO
+mean_Y=4.440892098500626e-16, std_Y=0.0 
+model name: GEO
+mean_Y=4.440892098500626e-16, std_Y=0.0 
+model name: PSO
+mean_Y=8.833892274996794e-05, std_Y=6.91971597603301e-05 
+model name: GA
+mean_Y=9.209784998660814, std_Y=3.965719456844663 
+model name: GWO
+mean_Y=4.440892098500626e-16, std_Y=0.0 
+model name: JSO
+mean_Y=9.491400258336095e-12, std_Y=3.459183575456338e-11 
+model name: SCA
+mean_Y=5.757204748787122e-07, std_Y=1.8208756650293526e-06 
+Function name Griewank, type: False
+model name: GEGO
+mean_Y=0.0, std_Y=0.0 
+model name: GEO
+mean_Y=0.0, std_Y=0.0 
+model name: PSO
+mean_Y=0.00779431764445642, std_Y=0.006987383372869268 
+model name: GA
+mean_Y=0.25949587694365145, std_Y=0.2017190884470409 
+model name: GWO
+mean_Y=0.0012331629397328088, std_Y=0.0027574366078284476 
+model name: JSO
+mean_Y=0.01238543960214753, std_Y=0.01608262851140052 
+model name: SCA
+mean_Y=0.005912696723846515, std_Y=0.008474323154040033 
+Function name Michalewicz, type: False
+model name: GEGO
+mean_Y=-1.8013034100985537, std_Y=6.843874359417885e-16 
+model name: GEO
+mean_Y=-1.8013034097116498, std_Y=4.760684602448308e-10 
+model name: PSO
+mean_Y=-1.7478831826227323, std_Y=0.19988018819395292 
+model name: GA
+mean_Y=-1.5246600009163194, std_Y=0.304556120357184 
+model name: GWO
+mean_Y=-1.8012794039522728, std_Y=2.7013702799330312e-05 
+model name: JSO
+mean_Y=-1.801303410098554, std_Y=5=7.588000014763635e-16 
+model name: SCA
+mean_Y=-1.604628047169817, std_Y=0.29080180499496056 
+Function name Qing, type: False
+model name: GEGO
+mean_Y=7.777425880567788e-07, std_Y=2.9184556815123365e-06 
+model name: GEO
+mean_Y=0.0006834039145388383, std_Y=0.0013273993870847533 
+model name: PSO
+mean_Y=1.3396964640122504e-05, std_Y=3.636306131028605e-05 
+model name: GA
+mean_Y=18661737.75881579, std_Y=52554502.74762846 
+model name: GWO
+mean_Y=2.3339318286565535e-06, std_Y=2.511476313714147e-06 
+model name: JSO
+mean_Y=2.0510510267643825e-18, std_Y=8.468985627569897e-18 
+model name: SCA
+mean_Y=0.01090893303637233, std_Y=0.009687280943738389 
+Function name Salomon, type: False
+model name: GEGO
+mean_Y=0.0, std_Y=0.0 
+model name: GEO
+mean_Y=0.0, std_Y=0.0 
+model name: PSO
+mean_Y=0.024280838654407905, std_Y=0.04188202264204534 
+model name: GA
+mean_Y=1.2596877409542264, std_Y=0.6935870553643209 
+model name: GWO
+mean_Y=0.003329111579200251, std_Y=0.017927814515333172 
+model name: JSO
+mean_Y=0.06401919923680675, std_Y=0.04720296577659104 
+model name: SCA
+mean_Y=0.014502698781225084, std_Y=0.033774079525829094 
+Function name Zimmerman, type: False
+model name: GEGO
+mean_Y=0.3497452922028951, std_Y=0.3497191503300846 
+model name: GEO
+mean_Y=0.3411994521959342, std_Y=0.33658793596699704 
+model name: PSO
+mean_Y=846.111510662365, std_Y=608.1929661583931 
+model name: GA
+mean_Y=13281.454103347547, std_Y=17820.683532493313 
+model name: GWO
+mean_Y=216.9966963901034, std_Y=484.33390555442924 
+model name: JSO
+mean_Y=0.3991507430189381, std_Y=0.3428491150625986 
+model name: SCA
+mean_Y=753.158818536038, std_Y=626.1799905533337 
+Function name Rana, type: False
+model name: GEGO
+mean_Y=-499.3563577052926, std_Y=3.01999795638576 
+model name: GEO
+mean_Y=-499.9603994309654, std_Y=0.6587531447459779 
+model name: PSO
+mean_Y=-498.8463147219498, std_Y=2.046864847392493 
+model name: GA
+mean_Y=-405.8749251487446, std_Y=51.423486862181626 
+model name: GWO
+mean_Y=-500.26593819369424, std_Y=0.5004654115153041 
+model name: JSO
+mean_Y=-499.54476628732004, std_Y=1.8759336328104903 
+model name: SCA
+mean_Y=-500.10160754769015, std_Y=0.8519750892102975 
+Function name Parsopoulos, type: False
+model name: GEGO
+mean_Y=0.00016816728845223946, std_Y=0.0003765958976433542 
+model name: GEO
+mean_Y=0.0005966840464038594, std_Y=0.0008191135106185082 
+model name: PSO
+mean_Y=3.484266542880225e-10, std_Y=1.0796496158577842e-09 
+model name: GA
+mean_Y=0.016846322020565647, std_Y=0.030516374171892784 
+model name: GWO
+mean_Y=1.91053004129584e-06, std_Y=6.510463682055547e-06 
+model name: JSO
+mean_Y=2.78377799367869e-17, std_Y=1.4971441432420117e-16 
+model name: SCA
+mean_Y=0.0006240985559634704, std_Y=0.0010221636173838224 
